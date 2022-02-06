@@ -13,7 +13,7 @@ I am currently *searching for an intership* in my field of study, anywhere in Eu
 
 ## ⚙ What tools and languages do I use ?
 
-I use C, Python, and R depending on what I want to do. 
+I mainly use C, Python, and R depending on what I want to do. 
 
 
 <!--
