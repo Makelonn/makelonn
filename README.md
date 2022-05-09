@@ -4,8 +4,6 @@
 
 **I am Maëlie, a french student in computer science and cybersecurity !** I enjoy coding as a hobby, especially when it revolves around video games, and data processing.
 
-I am currently *searching for an intership* in my field of study, anywhere in Europe ! 
-
 ## 📫 Feel free to reach me :
 
 <a href="https://www.linkedin.com/in/ma%C3%ABlie-lebaron-469a121a1/"> On Linkedin </a>or 
