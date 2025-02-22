@@ -2,7 +2,7 @@
 
 ## 👇 A bit about me 
 
-**I am a french student in computer science and cybersecurity !** I enjoy coding as a hobby, especially when it revolves around video games, or cybersecurity.
+I enjoy coding as a hobby, especially when it revolves around video games, or cybersecurity.
 
 📫 Feel free to reach me <a href="mailto:m4k3l0nn@gmail.com">by email :)</a>
 
